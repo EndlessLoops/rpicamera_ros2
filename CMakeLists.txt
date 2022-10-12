@@ -22,7 +22,7 @@ find_package(ament_cmake REQUIRED)
 # find_package(<dependency> REQUIRED)
 
 install(
-  DIRECTORY launch param src camera_info
+  DIRECTORY launch param camera_info
   DESTINATION share/${PROJECT_NAME}
 )
 
