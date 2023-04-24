@@ -2,8 +2,6 @@
 ```
 # foxy branch
 $ sudo apt install ros-foxy-image-tools ros-foxy-usb-cam ros-foxy-compressed-image-transport
-# humble branch
-$ sudo apt install ros-humble-image-tools ros-humble-usb-cam ros-humble-compressed-image-transport
 
 $ cd ~/ros2_ws/src
 $ git clone https://github.com/EndlessLoops/rpicamera_ros2.git
